@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  sercret: user_token
+
+gateway:
+  ip: 192.168.45.171
